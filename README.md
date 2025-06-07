@@ -1,2 +1,12 @@
 # VALOR
 Indeed
+
+
+/
+├── codex/             ← Working `.md` entries and narrative files
+├── images/            ← All scanned documents and attachments
+├── chats/             ← Exported GPT-chat JSON or Markdown logs
+├── template/          ← Original Ghost‑in‑the‑Aether site theme
+├── legal/             ← PDFs and exhibits with legal analysis
+├── everlight/         ← Evergreen materials (timeline, notes)
+└── README.md          ← Overview and repo roadmap
